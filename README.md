@@ -16,7 +16,7 @@ I used JDK 21, springboot, gradle, and Correto 21.
 
 {Make a list of websites that you found helpful in this project}
 
-- [How to make a rest API](hhttps://restfulapi.net/rest-api-design-tutorial-with-example/)
+- [How to make a rest API](https://restfulapi.net/rest-api-design-tutorial-with-example/)
 - [Rest API best practices](https://restfulapi.net/rest-api-best-practices/)
 
 # Future Work
